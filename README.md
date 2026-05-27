@@ -3,27 +3,27 @@
 It is a GUI application used for secure the usb port of a system to encrypt or decrypt the usb port when the user required to protect the system from any attacks and for privacy protection.
 
 ## Features and Functionality :
-1. USB Port Locking Mechanism 
+##### 1. USB Port Locking Mechanism 
 • Users can enable or disable USB ports with a single click. 
 • The application communicates directly with the operating system to 
 control port access. 
 • This feature ensures that only authorized users can use USB devices 
 on the system. 
-2. Password Protection 
+##### 2. Password Protection 
 • To prevent unauthorized changes to USB port settings, the 
 application requires users to enter a password. 
 • Users must authenticate themselves before modifying any USB
 related configurations. 
 • Password protection adds an extra layer of security to the 
 application. 
-3. Log/Events 
+##### 3. Log/Events 
 • The application maintains an events log. 
 • When a user logs into the application, the timestamp is recorded. 
 • Additionally, failed login attempts (wrong passwords) are also 
 logged. 
 • Users can view a chronological list of all login events and incorrect 
 attempts. 
-4. User Interface (UI) 
+##### 4. User Interface (UI) 
 • The UI provides an intuitive and user-friendly experience. 
 • Key components include: 
 o Status Indicators: Show whether USB ports are currently 
@@ -73,7 +73,7 @@ organizations to track USB-related events.
 
 
 
-### What my project is? :
+### What this Security Application does?
 Our USB physical security system provides a reliable defense against 
 unauthorized access and data breaches. By combining usability and robust 
 features, we enhance overall security in an interconnected world. This 
